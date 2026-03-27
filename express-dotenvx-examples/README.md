@@ -21,9 +21,6 @@ cp ../../.env.example .env
 
 # Encrypt your .env file
 npx dotenvx encrypt
-
-# Run it
-npm run dev
 ```
 
 ## Standalone Examples
