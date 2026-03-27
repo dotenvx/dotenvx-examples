@@ -20,7 +20,7 @@ npm install
 cp ../../.env.example .env
 
 # Encrypt your .env file
-dotenvx encrypt
+npx dotenvx encrypt
 
 # Run it
 npm run dev
