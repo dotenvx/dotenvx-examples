@@ -5,7 +5,7 @@ Comprehensive examples for encrypting secrets with [Dotenvx](https://dotenvx.com
 ## Prerequisites
 
 - Node.js 22+
-- Optional: A [Dotenvx](https://dotenvx.com) account
+- Optional: a [Dotenvx](https://dotenvx.com) account
 
 ## Installation
 
