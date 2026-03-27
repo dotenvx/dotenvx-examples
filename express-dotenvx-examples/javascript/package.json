@@ -1,0 +1,13 @@
+{
+  "name": "express-dotenvx-examples-javascript",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node src/index.js",
+    "start": "node src/index.js",
+    "example": "node"
+  },
+  "dependencies": {
+    "@dotenvx/dotenvx": "^1.58.0",
+    "express": "^5.2.1"
+  }
+}

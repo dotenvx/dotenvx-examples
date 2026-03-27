@@ -23,6 +23,7 @@ cp ../../.env.example .env
 dotenvx encrypt
 
 # Run it
+npm run dev
 ```
 
 ## Standalone Examples
@@ -30,13 +31,13 @@ dotenvx encrypt
 ### JavaScript
 ```bash
 cd javascript
-node examples/basic-run.js
+node examples/basic-config.js
 ```
 
 ### TypeScript
 ```bash
 cd typescript
-npx tsx examples/basic-run.ts
+npx tsx examples/basic-config.ts
 ```
 
 ## Express Application
