@@ -11,7 +11,7 @@ Comprehensive examples for encrypting secrets with [Dotenvx](https://dotenvx.com
 
 ```bash
 # Choose your variant
-cd typescript  # or javascript
+cd javascript  # or typescript
 
 # Install dependencies
 npm install
@@ -27,32 +27,32 @@ dotenvx encrypt
 
 ## Standalone Examples
 
-### TypeScript
-```bash
-cd typescript
-npx tsx examples/basic-run.ts
-```
-
 ### JavaScript
 ```bash
 cd javascript
 node examples/basic-run.js
 ```
 
-## Express Application
-
 ### TypeScript
 ```bash
 cd typescript
+npx tsx examples/basic-run.ts
+```
+
+## Express Application
+
+### JavaScript
+```bash
+cd javascript
 npm run dev
 
 # Then in the browser:
 open http://localhost:3000
 ```
 
-### JavaScript
+### TypeScript
 ```bash
-cd javascript
+cd typescript
 npm run dev
 
 # Then in the browser:
@@ -61,8 +61,8 @@ open http://localhost:3000
 
 ## Quick Usage
 
-```typescript
-import '@dotenvx/dotenvx/config'
+```javascript
+require('@dotenvx/dotenvx').config()
 
 console.log("ANTHROPIC_API_KEY:", process.env.ANTHROPIC_API_KEY)
 ```
