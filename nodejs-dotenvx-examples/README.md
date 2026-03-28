@@ -30,7 +30,7 @@ npx tsx index.ts
 ```javascript
 require('@dotenvx/dotenvx').config()
 
-console.log('ANTHROPIC_API_KEY:', process.env.ANTHROPIC_API_KEY)
+console.log('HELLO:', process.env.HELLO)
 ```
 
 ## Project Structure

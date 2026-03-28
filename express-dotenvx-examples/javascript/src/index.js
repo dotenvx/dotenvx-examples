@@ -6,7 +6,7 @@ app.use(express.json())
 
 app.get('/', (req, res) => {
   res.json({
-    ANTHROPIC_API_KEY: process.env.ANTHROPIC_API_KEY
+    HELLO: process.env.HELLO
   })
 })
 
