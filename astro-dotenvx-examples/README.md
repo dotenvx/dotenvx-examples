@@ -44,11 +44,21 @@ open http://localhost:4321/api
 
 ```
 astro-dotenvx-examples/
+├── .gitignore
+├── README.md
 ├── javascript/
+│   ├── astro.config.mjs
+│   ├── package.json
 │   └── src/
+│       └── pages/
+│           └── api.js
 ├── typescript/
+│   ├── astro.config.mjs
+│   ├── package.json
+│   ├── tsconfig.json
 │   └── src/
-└── README.md
+│       └── pages/
+│           └── api.ts
 ```
 
 ## Resources
