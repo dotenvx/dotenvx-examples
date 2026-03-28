@@ -1,0 +1,19 @@
+{
+  "name": "astro-dotenvx-examples-javascript",
+  "version": "1.0.0",
+  "description": "Comprehensive Dotenvx examples with Astro and JavaScript",
+  "private": true,
+  "scripts": {
+    "dev": "dotenvx run -- astro dev",
+    "build": "dotenvx run -- astro build",
+    "preview": "dotenvx run -- astro preview",
+    "start": "dotenvx run -- astro preview"
+  },
+  "dependencies": {
+    "@dotenvx/dotenvx": "^1.59.0",
+    "astro": "^6.1.1"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  }
+}
