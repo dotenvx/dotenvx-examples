@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-dotenvx-examples-typescript",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "tsx index.ts"
+  },
+  "dependencies": {
+    "@dotenvx/dotenvx": "^1.58.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.5.2",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.2"
+  }
+}
