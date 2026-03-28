@@ -36,7 +36,7 @@ Each language folder includes examples for:
 ## Resources
 
 - [Dotenvx Documentation](https://dotenvx.com/docs)
-- [CLI Reference](https://dotenvx.com/docs/cli-reference)
+- [CLI Reference](https://dotenvx.com/docs/cli)
 - [Dashboard](https://dotenvx.com/login)
 
 ## Contributing
