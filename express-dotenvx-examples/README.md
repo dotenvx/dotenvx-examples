@@ -16,9 +16,6 @@ cd javascript  # or typescript
 # Install dependencies
 npm install
 
-# Copy environment variables
-cp ../../.env.example .env
-
 # Encrypt your .env file
 npx dotenvx encrypt
 ```

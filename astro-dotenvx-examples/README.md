@@ -2,24 +2,61 @@
 
 Examples for encrypting secrets with [Dotenvx](https://dotenvx.com) in Astro projects.
 
-## Status
+## Prerequisites
 
-- JavaScript: available now
-- TypeScript: placeholder scaffold (coming soon)
+- Node.js 22+
+- Optional: a [Dotenvx](https://dotenvx.com) account
+
+## Installation
+
+```bash
+# Choose your variant
+cd javascript  # or typescript
+
+# Install dependencies
+npm install
+
+# Encrypt your .env file
+npx dotenvx encrypt
+```
+
+## Astro Application
+
+### JavaScript
+```bash
+cd javascript
+npm run dev
+
+# Then in the browser:
+open http://localhost:4321/api
+```
+
+### TypeScript
+```bash
+cd typescript
+npm run dev
+
+# Then in the browser:
+open http://localhost:4321/api
+```
 
 ## Project Structure
 
 ```
 astro-dotenvx-examples/
 ├── javascript/
-│   ├── examples/
 │   └── src/
 ├── typescript/
-│   ├── examples/
 │   └── src/
 └── README.md
 ```
 
-## Notes
+## Resources
 
-Use the `javascript/` folder for working examples today. The `typescript/` folder is intentionally a placeholder so we can add parity examples next.
+- [Dotenvx Node.js SDK](https://github.com/dotenvx/dotenvx)
+- [Dotenvx Documentation](https://dotenvx.com/docs)
+- [CLI Reference](https://dotenvx.com/docs/cli)
+
+## License
+
+MIT
