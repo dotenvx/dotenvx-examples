@@ -10,6 +10,7 @@ Choose your language/framework and follow the setup instructions in each folder:
 |----------|--------|-----------|
 | **Python** | [`/python-dotenvx-examples`](/python-dotenvx-examples/) | Python |
 | **Node.js** | [`/nodejs-dotenvx-examples`](/nodejs-dotenvx-examples/) | Node.js |
+| **Next.js** | [`/nextjs-dotenvx-examples`](/nextjs-dotenvx-examples/) | Next.js |
 | **Express** | [`/express-dotenvx-examples`](/express-dotenvx-examples/) | Express 5 |
 | **Astro** | [`/astro-dotenvx-examples`](/astro-dotenvx-examples/) | Astro (JavaScript available, TypeScript placeholder) |
 
