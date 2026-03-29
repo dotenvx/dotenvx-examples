@@ -15,6 +15,8 @@ Choose your language/framework and follow the setup instructions in each folder:
 | **PHP** | [`/php-dotenvx-examples`](/php-dotenvx-examples/) | PHP |
 | **Ruby** | [`/ruby-dotenvx-examples`](/ruby-dotenvx-examples/) | Ruby |
 | **Go** | [`/go-dotenvx-examples`](/go-dotenvx-examples/) | Go |
+| **Rust** | [`/rust-dotenvx-examples`](/rust-dotenvx-examples/) | Rust |
+| **Java** | [`/java-dotenvx-examples`](/java-dotenvx-examples/) | Java |
 | **Python** | [`/python-dotenvx-examples`](/python-dotenvx-examples/) | Python |
 
 ## Examples Included
