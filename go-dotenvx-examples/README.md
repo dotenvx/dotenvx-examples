@@ -1,6 +1,6 @@
 # Go + Dotenvx Examples
 
-Super basic examples for encrypting secrets with [Dotenvx](https://dotenvx.com) in Go.
+Comprehensive examples for encrypting secrets with [Dotenvx](https://dotenvx.com) in Go.
 
 ## Prerequisites
 

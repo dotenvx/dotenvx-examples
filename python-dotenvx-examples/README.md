@@ -1,6 +1,6 @@
 # Python + Dotenvx Examples
 
-Super basic examples for encrypting secrets with [Dotenvx](https://dotenvx.com) in Python.
+Comprehensive examples for encrypting secrets with [Dotenvx](https://dotenvx.com) in Python.
 
 ## Prerequisites
 

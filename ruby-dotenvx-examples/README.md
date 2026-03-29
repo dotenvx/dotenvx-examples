@@ -1,6 +1,6 @@
 # Ruby + Dotenvx Examples
 
-Super basic examples for encrypting secrets with [Dotenvx](https://dotenvx.com) in Ruby.
+Comprehensive examples for encrypting secrets with [Dotenvx](https://dotenvx.com) in Ruby.
 
 ## Prerequisites
 

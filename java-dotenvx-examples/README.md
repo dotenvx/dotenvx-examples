@@ -1,6 +1,6 @@
 # Java + Dotenvx Examples
 
-Super basic examples for encrypting secrets with [Dotenvx](https://dotenvx.com) in Java.
+Comprehensive examples for encrypting secrets with [Dotenvx](https://dotenvx.com) in Java.
 
 ## Prerequisites
 

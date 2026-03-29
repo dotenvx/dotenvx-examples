@@ -1,6 +1,6 @@
 # Node.js + Dotenvx Examples
 
-Super basic examples for encrypting secrets with [Dotenvx](https://dotenvx.com) in Node.js.
+Comprehensive examples for encrypting secrets with [Dotenvx](https://dotenvx.com) in Node.js.
 
 ## Prerequisites
 

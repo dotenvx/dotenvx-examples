@@ -1,6 +1,6 @@
 # PHP + Dotenvx Examples
 
-Super basic examples for encrypting secrets with [Dotenvx](https://dotenvx.com) in PHP.
+Comprehensive examples for encrypting secrets with [Dotenvx](https://dotenvx.com) in PHP.
 
 ## Prerequisites
 

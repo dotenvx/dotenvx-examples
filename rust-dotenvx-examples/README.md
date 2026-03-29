@@ -1,6 +1,6 @@
 # Rust + Dotenvx Examples
 
-Super basic examples for encrypting secrets with [Dotenvx](https://dotenvx.com) in Rust.
+Comprehensive examples for encrypting secrets with [Dotenvx](https://dotenvx.com) in Rust.
 
 ## Prerequisites
 
