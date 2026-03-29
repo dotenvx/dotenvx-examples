@@ -13,6 +13,8 @@ Choose your language/framework and follow the setup instructions in each folder:
 | **Express** | [`/express-dotenvx-examples`](/express-dotenvx-examples/) | Express 5 |
 | **Astro** | [`/astro-dotenvx-examples`](/astro-dotenvx-examples/) | Astro |
 | **PHP** | [`/php-dotenvx-examples`](/php-dotenvx-examples/) | PHP |
+| **Ruby** | [`/ruby-dotenvx-examples`](/ruby-dotenvx-examples/) | Ruby |
+| **Go** | [`/go-dotenvx-examples`](/go-dotenvx-examples/) | Go |
 | **Python** | [`/python-dotenvx-examples`](/python-dotenvx-examples/) | Python |
 
 ## Examples Included
