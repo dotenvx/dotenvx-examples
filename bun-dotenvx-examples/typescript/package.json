@@ -1,0 +1,14 @@
+{
+  "name": "bun-dotenvx-examples-typescript",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "bun index.ts"
+  },
+  "dependencies": {
+    "@dotenvx/dotenvx": "^1.58.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.5.2",
+    "typescript": "^5.9.2"
+  }
+}

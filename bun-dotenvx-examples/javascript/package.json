@@ -1,0 +1,10 @@
+{
+  "name": "bun-dotenvx-examples-javascript",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "bun index.js"
+  },
+  "dependencies": {
+    "@dotenvx/dotenvx": "^1.58.0"
+  }
+}

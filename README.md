@@ -9,6 +9,7 @@ Choose your language/framework and follow the setup instructions in each folder:
 | Language | Folder | Framework |
 |----------|--------|-----------|
 | **Node.js** | [`/nodejs-dotenvx-examples`](/nodejs-dotenvx-examples/) | Node.js |
+| **↳ Bun** | [`/bun-dotenvx-examples`](/bun-dotenvx-examples/) | Bun |
 | **↳ Next.js** | [`/nextjs-dotenvx-examples`](/nextjs-dotenvx-examples/) | Next.js |
 | **↳ Express** | [`/express-dotenvx-examples`](/express-dotenvx-examples/) | Express 5 |
 | **↳ Astro** | [`/astro-dotenvx-examples`](/astro-dotenvx-examples/) | Astro |
