@@ -6,3 +6,4 @@ node_modules
 .agents
 .claude
 package-lock.json
+bun.lock

@@ -11,7 +11,7 @@ Comprehensive examples for encrypting secrets with [Dotenvx](https://dotenvx.com
 
 ```bash
 cd javascript
-bun install
+bun add @dotenvx/dotenvx
 bunx dotenvx encrypt
 bun index.js
 ```
@@ -20,7 +20,7 @@ bun index.js
 
 ```bash
 cd typescript
-bun install
+bun add @dotenvx/dotenvx
 bunx dotenvx encrypt
 bun index.ts
 ```
