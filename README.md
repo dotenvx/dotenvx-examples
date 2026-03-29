@@ -10,14 +10,14 @@ Choose your language/framework and follow the setup instructions in each folder:
 |----------|--------|-----------|
 | **Node.js** | [`/nodejs-dotenvx-examples`](/nodejs-dotenvx-examples/) | Node.js |
 | **Next.js** | [`/nextjs-dotenvx-examples`](/nextjs-dotenvx-examples/) | Next.js |
-| **Express** | [`/express-dotenvx-examples`](/express-dotenvx-examples/) | Express 5 |
-| **Astro** | [`/astro-dotenvx-examples`](/astro-dotenvx-examples/) | Astro |
+| **Python** | [`/python-dotenvx-examples`](/python-dotenvx-examples/) | Python |
 | **PHP** | [`/php-dotenvx-examples`](/php-dotenvx-examples/) | PHP |
 | **Ruby** | [`/ruby-dotenvx-examples`](/ruby-dotenvx-examples/) | Ruby |
 | **Go** | [`/go-dotenvx-examples`](/go-dotenvx-examples/) | Go |
 | **Rust** | [`/rust-dotenvx-examples`](/rust-dotenvx-examples/) | Rust |
 | **Java** | [`/java-dotenvx-examples`](/java-dotenvx-examples/) | Java |
-| **Python** | [`/python-dotenvx-examples`](/python-dotenvx-examples/) | Python |
+| **Express** | [`/express-dotenvx-examples`](/express-dotenvx-examples/) | Express 5 |
+| **Astro** | [`/astro-dotenvx-examples`](/astro-dotenvx-examples/) | Astro |
 
 ## Examples Included
 

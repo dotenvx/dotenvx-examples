@@ -11,7 +11,7 @@ Super basic examples for encrypting secrets with [Dotenvx](https://dotenvx.com) 
 
 ```bash
 dotenvx encrypt
-dotenvx run -- rustc main.rs -o main && dotenvx run -- ./main
+dotenvx run -- cargo run
 ```
 
 ## Quick Usage
@@ -29,6 +29,9 @@ fn main() {
 
 ```
 rust-dotenvx-examples/
-├── main.rs
-└── README.md
+├── .env
+├── Cargo.toml
+├── README.md
+└── src/
+    └── main.rs
 ```
