@@ -23,7 +23,7 @@ Each language folder includes examples for:
 
 ## Getting Started
 
-1. **Get a Dotenvx Account** from [dotenvx.com/signup](https://dotenvx.com/signup)
+1. **Create your Dotenvx Account** at [dotenvx.com/signup](https://dotenvx.com/signup) (optional)
 
 2. **Clone this repository**:
    ```bash
